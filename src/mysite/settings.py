@@ -1,5 +1,5 @@
 """
-Django settings for my_site project.
+Django settings for mysite project.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/1.7/topics/settings/
@@ -49,9 +49,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'my_site.urls'
+ROOT_URLCONF = 'mysite.urls'
 
-WSGI_APPLICATION = 'my_site.wsgi.application'
+WSGI_APPLICATION = 'mysite.wsgi.application'
 
 
 # Database
